@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.gi.riset.demo1.Demo1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 35.729 s - in com.gi.riset.demo1.Demo1ApplicationTests
